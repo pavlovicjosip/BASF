@@ -5,3 +5,4 @@ public enum ProductType {
     LIQUID,
     GAS;
 }
+
